@@ -18,8 +18,3 @@ class windowFunction {  def main(args: Array[String]) {
 
 
 }
-
-// this  code is 
-// very Importatn 
-// plz review
-//?????
