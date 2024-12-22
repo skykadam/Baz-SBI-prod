@@ -1,4 +1,4 @@
-oimport org.apache.spark.sql._
+import org.apache.spark.sql._
 import org.apache.spark.sql.functions._
 class windowFunction {  def main(args: Array[String]) {
   val spark = SparkSession.builder.master("local[*]").appName("WindowFunction").getOrCreate()
@@ -18,8 +18,3 @@ class windowFunction {  def main(args: Array[String]) {
 
 
 }
-hi
-hi
-hi
-hi
-hi
